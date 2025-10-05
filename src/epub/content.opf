@@ -19,6 +19,7 @@
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">displayTransformability</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
@@ -28,51 +29,63 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">John Silence Stories</dc:title>
 		<meta property="file-as" refines="#title">John Silence Stories</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Horror tales, English</dc:subject>
+		<dc:subject id="subject-2">Supernatural -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Ghost stories, English</dc:subject>
+		<dc:subject id="subject-4">Silence, John (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Paranormal fiction, English</dc:subject>
+		<dc:subject id="subject-6">Psychics -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">http://id.loc.gov/authorities/subjects/sh85062088</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">http://id.loc.gov/authorities/subjects/sh85130630</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">http://id.loc.gov/authorities/subjects/sh85054816</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">http://id.loc.gov/authorities/subjects/sh97006398</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">http://id.loc.gov/authorities/subjects/sh98005120</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">http://id.loc.gov/authorities/subjects/sh2008109492</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A physician turned detective uses his psychic abilities to solve the strange cases presented to him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			This collection features all six stories written by <a href="https://standardebooks.org/ebooks/algernon-blackwood">Algernon Blackwood</a> about the character John Silence. Silence is a doctor turned detective who uses his psychic training to solve strange cases sent to him by acquaintances. Silence is an early example of the occult detective trope, whose influence was later seen in places like <i>The X-Files</i> and the cinematic adaptation of <i>Sleepy Hollow</i>.
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>https://gutenberg.org/ebooks/10624</dc:source>
+		<dc:source>https://gutenberg.org/ebooks/10659</dc:source>
+		<dc:source>https://archive.org/details/johnsilencephysi00blac</dc:source>
+		<dc:source>https://archive.org/details/IAPSOP-occult_review_v20_n6_dec_1914</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/algernon-blackwood_john-silence-stories</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:creator id="author">Algernon Blackwood</dc:creator>
 		<meta property="file-as" refines="#author">Blackwood, Algernon</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Algernon Henry Blackwood, CBE</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50008491</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">René Magritte</dc:contributor>
+		<meta property="file-as" refines="#artist">Magritte, René</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte/</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79086870</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Dave Morgan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Morgan, Dave</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Alexander Keane</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keane, Alexander</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexanderkeane.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -92,7 +105,7 @@
 		<item href="text/ancient-sorceries.xhtml" id="ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="applicaiton/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/secret-worship.xhtml" id="secret-worship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-camp-of-the-dog.xhtml" id="the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
