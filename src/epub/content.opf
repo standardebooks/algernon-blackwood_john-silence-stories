@@ -54,9 +54,13 @@
 			This collection features all six stories written by <a href="https://standardebooks.org/ebooks/algernon-blackwood">Algernon Blackwood</a> about the character John Silence. Silence is a doctor turned detective who uses his psychic training to solve strange cases sent to him by acquaintances. Silence is an early example of the occult detective trope, whose influence was later seen in places like <i>The X-Files</i> and the cinematic adaptation of <i>Sleepy Hollow</i>.
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<!--A Psychical Invasion, Ancient Sorceries, The Nemesis of Fire-->
 		<dc:source>https://gutenberg.org/ebooks/10624</dc:source>
+		<!--Secret Worship, The Camp of the Dog, A Victim of Higher Space-->
 		<dc:source>https://gutenberg.org/ebooks/10659</dc:source>
+		<!--A Psychical Invasion, Ancient Sorceries, The Nemesis of Fire, Secret Worship, The Camp of the Dog-->
 		<dc:source>https://archive.org/details/johnsilencephysi00blac</dc:source>
+		<!--A Victim of Higher Space-->
 		<dc:source>https://archive.org/details/IAPSOP-occult_review_v20_n6_dec_1914</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
