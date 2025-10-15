@@ -55,9 +55,9 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!--A Psychical Invasion, Ancient Sorceries, The Nemesis of Fire-->
-		<dc:source>https://gutenberg.org/ebooks/10624</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/10624</dc:source>
 		<!--Secret Worship, The Camp of the Dog, A Victim of Higher Space-->
-		<dc:source>https://gutenberg.org/ebooks/10659</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/10659</dc:source>
 		<!--A Psychical Invasion, Ancient Sorceries, The Nemesis of Fire, Secret Worship, The Camp of the Dog-->
 		<dc:source>https://archive.org/details/johnsilencephysi00blac</dc:source>
 		<!--A Victim of Higher Space-->
@@ -69,7 +69,7 @@
 		<dc:creator id="author">Algernon Blackwood</dc:creator>
 		<meta property="file-as" refines="#author">Blackwood, Algernon</meta>
 		<meta property="se:name.person.full-name" refines="#author">Algernon Henry Blackwood, CBE</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">http://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50008491</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">René Magritte</dc:contributor>
