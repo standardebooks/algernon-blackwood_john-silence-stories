@@ -50,7 +50,9 @@
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A physician turned detective uses his psychic abilities to solve the strange cases presented to him.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">This collection features all six stories written by &lt;a href="https://standardebooks.org/ebooks/algernon-blackwood"&gt;Algernon Blackwood&lt;/a&gt; about the character John Silence. Silence is a doctor turned detective who uses his psychic training to solve strange cases sent to him by acquaintances. Silence is an early example of the occult detective trope, whose influence was later seen in places like &lt;i&gt;The X-Files&lt;/i&gt; and the cinematic adaptation of &lt;i&gt;Sleepy Hollow&lt;/i&gt;.</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;This collection features all six stories written by &lt;a href="https://standardebooks.org/ebooks/algernon-blackwood"&gt;Algernon Blackwood&lt;/a&gt; about the character John Silence. Silence is a doctor turned detective who uses his psychic training to solve strange cases sent to him by acquaintances. Silence is an early example of the occult detective trope, whose influence was later seen in places like &lt;i&gt;The X-Files&lt;/i&gt; and the cinematic adaptation of &lt;i&gt;Sleepy Hollow&lt;/i&gt;.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<!--A Psychical Invasion, Ancient Sorceries, The Nemesis of Fire-->
 		<dc:source>https://www.gutenberg.org/ebooks/10624</dc:source>
