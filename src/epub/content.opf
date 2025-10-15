@@ -69,12 +69,12 @@
 		<dc:creator id="author">Algernon Blackwood</dc:creator>
 		<meta property="file-as" refines="#author">Blackwood, Algernon</meta>
 		<meta property="se:name.person.full-name" refines="#author">Algernon Henry Blackwood, CBE</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">http://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50008491</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">René Magritte</dc:contributor>
 		<meta property="file-as" refines="#artist">Magritte, René</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte/</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79086870</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
