@@ -29,3 +29,7 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+.telegram{
+	font-variant: all-small-caps;
+}
