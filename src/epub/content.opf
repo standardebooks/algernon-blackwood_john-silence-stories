@@ -63,7 +63,7 @@
 		<dc:source>https://archive.org/details/johnsilencephysi00blac</dc:source>
 		<!--A Victim of Higher Space-->
 		<dc:source>https://archive.org/details/IAPSOP-occult_review_v20_n6_dec_1914</dc:source>
-		<meta property="se:word-count">115562</meta>
+		<meta property="se:word-count">114903</meta>
 		<meta property="se:reading-ease.flesch">67.08</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/algernon-blackwood_john-silence-stories</meta>
 		<dc:creator id="author">Algernon Blackwood</dc:creator>
