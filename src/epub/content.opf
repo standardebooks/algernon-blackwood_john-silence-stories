@@ -64,7 +64,7 @@
 		<dc:source>https://archive.org/details/johnsilencephysi00blac</dc:source>
 		<!--A Victim of Higher Space-->
 		<dc:source>https://archive.org/details/IAPSOP-occult_review_v20_n6_dec_1914</dc:source>
-		<meta property="schema:wordCount">114903</meta>
+		<meta property="schema:wordCount">114904</meta>
 		<meta property="schema:educationalLevel">67.08</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
